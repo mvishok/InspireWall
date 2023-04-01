@@ -1,7 +1,7 @@
 from requests import get
 
 def check_updates():
-    res = get('https://api.github.com/repos/mvishok/InspireScreen/releases/latest')
+    res = get('https://api.github.com/repos/mvishok/InspireWall/releases/latest')
     if res.status_code == 200:
         latest = res.json()['tag_name']
         if latest != 'v1.0.0':
