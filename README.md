@@ -26,7 +26,7 @@
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## Latest release
+## Latest Release
 The latest release of InspireWall can be found on the [releases page](https://github.com/mvishok/InspireWall/releases)
 
 ## About The Project
