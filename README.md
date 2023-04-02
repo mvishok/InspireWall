@@ -10,11 +10,12 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/mvishok/InspireWall/total) ![Contributors](https://img.shields.io/github/contributors/mvishok/InspireWall?color=dark-green) ![Forks](https://img.shields.io/github/forks/mvishok/InspireWall?style=social) ![Stargazers](https://img.shields.io/github/stars/mvishok/InspireWall?style=social) ![Issues](https://img.shields.io/github/issues/mvishok/InspireWall) ![License](https://img.shields.io/github/license/mvishok/InspireWall) 
+![Downloads](https://img.shields.io/github/downloads/mvishok/InspireWall/total.svg) ![Contributors](https://img.shields.io/github/contributors/mvishok/InspireWall?color=dark-green) ![Forks](https://img.shields.io/github/forks/mvishok/InspireWall?style=social) ![Stargazers](https://img.shields.io/github/stars/mvishok/InspireWall?style=social) ![Issues](https://img.shields.io/github/issues/mvishok/InspireWall) ![License](https://img.shields.io/github/license/mvishok/InspireWall) 
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
+* [Latest Release](#latest-release)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -24,6 +25,9 @@
 * [License](#license)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
+
+## Latest release
+The latest release of InspireWall can be found on the [releases page](https://github.com/mvishok/InspireWall/releases)
 
 ## About The Project
 
